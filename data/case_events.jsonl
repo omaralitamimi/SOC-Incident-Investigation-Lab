@@ -1,0 +1,13 @@
+{"timestamp":"2026-09-25T18:00:00Z","host":"ws-17","event_type":"auth_failure","user":"omar.lab","src_ip":"203.0.113.77"}
+{"timestamp":"2026-09-25T18:00:15Z","host":"ws-17","event_type":"auth_failure","user":"omar.lab","src_ip":"203.0.113.77"}
+{"timestamp":"2026-09-25T18:00:30Z","host":"ws-17","event_type":"auth_failure","user":"omar.lab","src_ip":"203.0.113.77"}
+{"timestamp":"2026-09-25T18:00:45Z","host":"ws-17","event_type":"auth_failure","user":"omar.lab","src_ip":"203.0.113.77"}
+{"timestamp":"2026-09-25T18:01:00Z","host":"ws-17","event_type":"auth_failure","user":"omar.lab","src_ip":"203.0.113.77"}
+{"timestamp":"2026-09-25T18:01:20Z","host":"ws-17","event_type":"auth_success","user":"omar.lab","src_ip":"203.0.113.77"}
+{"timestamp":"2026-09-25T18:03:00Z","host":"ws-17","event_type":"process_start","user":"omar.lab","process":"powershell.exe","command_line":"powershell.exe -EncodedCommand LAB_SAMPLE","sha256":"bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"}
+{"timestamp":"2026-09-25T18:05:00Z","host":"ws-17","event_type":"account_created","user":"omar.lab","target_user":"svc-lab"}
+{"timestamp":"2026-09-25T18:06:00Z","host":"ws-17","event_type":"privilege_change","user":"omar.lab","target_user":"svc-lab","new_role":"administrator"}
+{"timestamp":"2026-09-25T18:08:00Z","host":"ws-17","event_type":"network_connection","direction":"outbound","dst_ip":"198.51.100.88","dst_port":443,"domain":"telemetry-lab.example"}
+{"timestamp":"2026-09-25T18:08:30Z","host":"ws-17","event_type":"network_connection","direction":"outbound","dst_ip":"198.51.100.88","dst_port":443,"domain":"telemetry-lab.example"}
+{"timestamp":"2026-09-25T18:09:00Z","host":"ws-17","event_type":"network_connection","direction":"outbound","dst_ip":"198.51.100.88","dst_port":443,"domain":"telemetry-lab.example"}
+{"timestamp":"2026-09-25T18:09:30Z","host":"ws-17","event_type":"network_connection","direction":"outbound","dst_ip":"198.51.100.88","dst_port":443,"domain":"telemetry-lab.example"}
